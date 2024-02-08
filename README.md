@@ -10,4 +10,4 @@ Com isso podemos deduzir que o sistema Bazar Alto Oeste pode atender várias nec
 
 Links Úteis:
     Documento de descrição do sistema: https://docs.google.com/document/d/19CRvglGRb-FMNBqWvA-SgoYJmoqURmOaZbbf5XNIiyw/edit?usp=sharing
-    Documento de Requisitos: https://docs.google.com/document/d/1pqXeZ5EJJYkeEbo0tjqvpTVTYxXIA-e1TarN6SQFTdA/edit?usp=sharing
+    - Documento de Requisitos: https://docs.google.com/document/d/1pqXeZ5EJJYkeEbo0tjqvpTVTYxXIA-e1TarN6SQFTdA/edit?usp=sharing
